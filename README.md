@@ -1,3 +1,3 @@
-Few Python course Maths exercises
+## Few Python course Maths exercises
 
 Enjoy
